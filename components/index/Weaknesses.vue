@@ -12,7 +12,7 @@
 		<div class="self-start flex gap-8 items-center">
 			<img
 				class="h-[180px] drop-shadow-md rounded w-[350px] object-cover"
-				src="/vector-abstract-horizontal-background-blue-azure-water-with-wavy-curves-subtle-blur_364586-798.jpg"
+				src="/water-surface.jpg"
 				alt="water surface" />
 			<img
 				class="h-[180px] drop-shadow-md rounded w-[180px] object-cover"
