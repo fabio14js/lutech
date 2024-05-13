@@ -33,6 +33,9 @@ const currentSlide = ref(0);
 		<SwiperSlide @mouseover.prevent="currentSlide = 2">
 			<IndexStrengths />
 		</SwiperSlide>
+		<SwiperSlide @mouseover.prevent="currentSlide = 3">
+			<IndexMotivation />
+		</SwiperSlide>
 	</Swiper>
 	<div class="absolute flex gap-3 items-center z-20 bottom-16 left-[50%] translate-x-[-50%]">
 		<div
